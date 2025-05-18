@@ -5,7 +5,7 @@ Currently learning React, Node.js, C++, and diving into backend development.
 
 ### 🚀 Skills
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express, MongoDB
+- Backend: Node.js, Express
 - Other: Git, Linux, C++, REST APIs
 
 ### 📌 Projects
