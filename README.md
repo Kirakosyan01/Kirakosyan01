@@ -6,7 +6,7 @@ Currently learning React, Node.js, C++, and diving into backend development.
 ### 🚀 Skills
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Node.js, Express
-- Other: Git, Linux, C++, REST APIs
+- Other: Git, Linux, REST APIs
 
 ### 📌 Projects
 - [My Portfolio](https://albert-kirakosyan-portfolio.vercel.app/)
