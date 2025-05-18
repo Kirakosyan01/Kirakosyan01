@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Albert 👋
 
-<!--
-**Kirakosyan01/Kirakosyan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Software Developer from Armenia.  
+Currently learning React, Node.js, C++, and diving into backend development.
 
-Here are some ideas to get you started:
+### 🚀 Skills
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express, MongoDB
+- Other: Git, Linux, C++, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- [My Portfolio](https://albert-kirakosyan-portfolio.vercel.app/)
+- More on [GitHub](https://github.com/Kirakosyan01)
+
+### 🧠 Currently Learning
+- Fullstack development
+- Algorithms & Data Structures
+- Docker, JWT, and Deployment
+
+### 📫 How to reach me
+- Email: albert69kirakosyan@gmail.com
+- LinkedIn: [Albert Kirakosyan](www.linkedin.com/in/albert-kirakosyan-27a0b5306)
+
+---
+
+_“I believe in learning by doing.”_
