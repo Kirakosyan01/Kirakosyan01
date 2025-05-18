@@ -19,7 +19,7 @@ Currently learning React, Node.js, C++, and diving into backend development.
 
 ### 📫 How to reach me
 - Email: albert69kirakosyan@gmail.com
-- LinkedIn:[Albert Kirakosyan](www.linkedin.com/in/albert-kirakosyan-27a0b5306)
+- LinkedIn:[Albert Kirakosyan](https://www.linkedin.com/in/albert-kirakosyan-27a0b5306)
 
 ---
 
